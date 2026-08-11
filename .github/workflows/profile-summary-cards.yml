@@ -20,7 +20,7 @@ jobs:
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{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}}
         with:
           USERNAME: Fath-elpap
           UTC_OFFSET: 3
