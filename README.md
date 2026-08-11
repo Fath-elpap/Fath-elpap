@@ -34,72 +34,112 @@ I work across the analytics lifecycle — from **data cleaning and transformatio
 ---
 
 # 🛠️ Tech Stack
+## 🧩 Data Analytics Cards
 
-### 📊 BI & Visualization
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+### 📥 Data Extraction
+- SQL Queries
+- Business Analysis
+- Data Validation
+- Data Understanding
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge"/>
 </p>
 
-### 💻 Programming & Analytics
+</td>
+    <td width="50%" valign="top">
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+### 🧹 Data Cleaning
+- Cleaning Raw Data
+- Handling Missing Values
+- Data Transformation
+- Feature Preparation
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
 </p>
 
-### 🗄️ Databases
+</td>
+  </tr>
 
-<p align="left">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📊 Data Visualization
+- Interactive Dashboards
+- KPI Tracking
+- Reporting
+- Business Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### ⚙️ Analytics Skills
+</td>
+    <td width="50%" valign="top">
 
-<p align="left">
-<img src="https://img.shields.io/badge/Data%20Cleaning-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Transformation-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-008080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI%20Analysis-DC143C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/K--Means-Clustering-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+### 🎯 Business Insights
+- Trend Analysis
+- Root Cause Analysis
+- Segmentation
+- Actionable Recommendations
+
+<p>
+  <img src="https://img.shields.io/badge/EDA-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
+
+</td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📌 My Analytics Mindset</b></summary>
+  <br>
+
+- **What happened?**  
+  Understand trends, KPIs, and business performance.
+
+- **Why did it happen?**  
+  Explore drivers, patterns, and root causes.
+
+- **What should happen next?**  
+  Translate insights into clear business actions.
+
+</details>
+
+<details>
+  <summary><b>🛠️ Tools I Use</b></summary>
+  <br>
+
+- **SQL** → Data extraction and business queries  
+- **Python** → Cleaning, EDA, automation, and modeling  
+- **Power BI** → Dashboards and KPI reporting  
+- **Excel** → Analysis, reporting, and decision support  
+- **Power Query** → Transformation and ETL  
+- **DAX** → Measures and advanced KPI logic  
+
+</details>
+
+<details>
+  <summary><b>💡 My Goal</b></summary>
+  <br>
+
+> Transform raw data into actionable insights that support smarter business decisions.
+
+</details>
 
 ---
-
-# 🔄 My Analytics Workflow
-
-```text
-Business Question
-       ↓
-Data Collection
-       ↓
-Data Cleaning & Validation
-       ↓
-Data Transformation
-       ↓
-Exploratory Data Analysis
-       ↓
-Data Modeling / Feature Engineering
-       ↓
-KPI Development or Machine Learning
-       ↓
-Dashboard & Visualization
-       ↓
-Insights & Recommendations
-       ↓
-Data-Driven Decisions
-```
 
 ---
 
@@ -138,88 +178,29 @@ Data-Driven Decisions
 
 ---
 
-## 🏥 Donor & Fundraising Analytics
 
-**SQL Server • Python • Machine Learning • Power BI**
-
-Designed an analytics solution around donor acquisition and fundraising performance.
-
-Key business questions:
-
-* Which channels attract the most donors?
-* Why do some donors not return?
-* Why do some fundraising cases remain incomplete?
-* How can campaign efficiency be improved?
-* How can communication teams prioritize donors?
-
-The project includes:
-
-* Data Cleaning & EDA
-* SQL Analysis
-* Donor Segmentation
-* RFM Analysis
-* Machine Learning Clustering
-* Case Funding Risk Analysis
-* Power BI Dashboards
-* Business Recommendations
-
-🔗 **Project Link:** `ADD_PROJECT_LINK`
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fath-elpap&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Fath-elpap&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-<br>
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos Per Language"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fath-elpap&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub Stats"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fath-elpap&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 💡 How I Think About Data
-
-```python
-data_analyst = {
-    "SQL": "Data Extraction & Business Analysis",
-    "Python": "Cleaning, EDA & Machine Learning",
-    "Power BI": "Interactive Dashboards & KPIs",
-    "Excel": "Business Reporting & Analysis",
-    "DAX": "Advanced Measures",
-    "Power Query": "ETL & Transformation",
-    "Data Modeling": "Relationships & Star Schema",
-    "Machine Learning": "Segmentation & Classification",
-    "Goal": "Turn Data Into Better Decisions"
-}
-```
-
-> **Data becomes valuable when it leads to a better decision.**
-
-I try to answer three questions in every analysis:
-
-### What happened?
-
-### Why did it happen?
-
-### What should the business do next?
-
----
 
 # 🤝 Connect With Me
 
