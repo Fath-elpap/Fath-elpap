@@ -143,7 +143,7 @@ End-to-end analytics project covering sales, returns, shipping, data transformat
 
 ## 📊 GitHub Analytics
 
-<img src="./assets/top-languages.svg" width="49%" alt="Python SQL DAX HTML"/>
+<img src="./.github/workflows/assets/top-languages.svg" width="49%" alt="Python SQL DAX HTML"/>
 
 ---
 
