@@ -143,16 +143,7 @@ End-to-end analytics project covering sales, returns, shipping, data transformat
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="GitHub Profile Details"/>
-
-<br><br>
-
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repositories per Language"/>
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub Stats"/>
-
-</div>
+<img src="./assets/top-languages.svg" width="49%" alt="Python SQL DAX HTML"/>
 
 ---
 
