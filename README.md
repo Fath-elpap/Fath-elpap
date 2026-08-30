@@ -131,15 +131,7 @@ End-to-end analytics project covering sales, returns, shipping, data transformat
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fath-elpap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1" width="100%" />
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
